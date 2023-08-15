@@ -3,10 +3,16 @@
 > 소셜 미디어 플랫폼에서 발견한 옷에 대한 정보 부재와 온라인에서의 스타일 판단 어려움을 해결하기 위한 서비스
 >   > 개발 기간 : 2023.07.01~ 2023.07.27
 
-:loudspeaker: 아래 이미지를 클릭해서 `demo 영상`을 볼 수 있습니다. 
+:loudspeaker: 아래 이미지를 클릭해서 **멋탠다드 기능이 간략하게 1분요약**된 `demo 영상`을 볼 수 있습니다 !!
 
 [![Video Label](https://img.youtube.com/vi/b6DO6gwo4Q0/0.jpg)](https://youtu.be/b6DO6gwo4Q0)
 
+---
+:loudspeaker: 기능 요약이 아닌, **자세한 설명**을 원한다면,<br>
+[![Video Label](https://img.youtube.com/vi/9uw2us3Wxxc/0.jpg)](https://youtu.be/9uw2us3Wxxc)
+<br>위 이미지를 클릭해주세요!<br>
+[pdf 파일](https://github.com/DaHyeonnn/level3_cv_finalproject-cv-02/blob/main/%5B%EC%B5%9C%EC%A2%85%5D%20%EC%9D%98%EB%A5%98%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EA%B0%80%EC%83%81%ED%94%BC%ED%8C%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%86%8C%EA%B0%9C.pdf)
+혹은 발표 자료로 확인 가능합니다.
 <br><br>
 
 ## :zap: 팀 멋쟁이
